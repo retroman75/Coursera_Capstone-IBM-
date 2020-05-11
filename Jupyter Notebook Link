@@ -1,1 +1,5 @@
-https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/6761c0e5-4ff8-4b84-b2ec-66812d157b55?projectid=e1358591-5253-4dc4-9bd2-a1e2ef6d454a&context=wdp
+Coursera Capstone Project (IBM)
+import pandas as pd
+import numpy as np
+greeting = ("Hello Capstone Project Course!")
+print(greeting)
