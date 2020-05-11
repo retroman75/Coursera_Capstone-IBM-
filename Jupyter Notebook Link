@@ -1,5 +1,0 @@
-Coursera Capstone Project (IBM)
-import pandas as pd
-import numpy as np
-greeting = ("Hello Capstone Project Course!")
-print(greeting)
